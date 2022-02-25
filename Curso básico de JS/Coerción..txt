@@ -1,0 +1,12 @@
+Coerción. 
+Explicita: un valor de un tipo cambie, si es necesario que cambie. Obligamos
+
+Implicita: operador (multiplicación) 
+var b = 4 * "7"
+b = 28
+number
+conversión de string a number 
+
+var a = 20;
+var c = String(a); // de esta forma se cambia de number a string 
+

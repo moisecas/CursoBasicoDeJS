@@ -1,0 +1,3 @@
+Hoisting
+Cuando las variables y las funciones se declaran antes 
+variable y función. 
